@@ -77,7 +77,5 @@ This folder can contain any screenshots, additional documentation, or task notes
 
 ---
 
-## Notes
 
-* Use the exact filenames above. After you copy them into your cloned repo, proceed to `git add .`, `git commit`, and `git push`.
-* If you want, I can also provide the exact terminal commands to create these files automatically on your machine — tell me and I'll provide them.
+
